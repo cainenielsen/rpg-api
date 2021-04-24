@@ -1,0 +1,20 @@
+{
+  "name": "rpg-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "firebase emulators:start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cainenielsen/rpg-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cainenielsen/rpg-api/issues"
+  },
+  "homepage": "https://github.com/cainenielsen/rpg-api#readme"
+}
